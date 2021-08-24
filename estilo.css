@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+  background-color: #f0f0f0;
+  height: 100%;
+  margin: 0;
+}
+div#BackgroundAzul {
+  top: 0;
+  text-align: center;
+  background-color: #3368ad;
+  display: block;
+  height: 150px;
+  box-shadow: inset 0 0 1em black;
+}
+div#ControleMil {
+
+  text-align: center;
+  font-family:Gill Sans;
+  font-size: 40px;
+  color: white;
+}
+div#eb {
+  margin-left: 13%;
+  line-height: 45px;
+  position: absolute;
+  top: 5%;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: white;
+}
+div#cmf {
+  margin-left: 13%;
+  line-height: 45px;
+  position: absolute;
+  top: 9%;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  color: white;
+}
+div#CasaEudoroCorrea {
+  size: 17px;
+  line-height: 20px;
+  margin-left: 13%;
+  position: absolute;
+  top: 15%;
+  font-family:open_sansregular;
+  font-size: 20px;
+  color: white;
+}
+div#LogoCMF {
+  margin-left: 17%;
+  position: absolute;
+  top: 6%;
+  left: -10%;
+  
+}
+
+
+div#BackgroundVermelho {
+  background-color: red;
+  box-shadow: inset 0 0 0.5em gray;
+  height: 25px;
+}
+div#CadastrosSV {
+  text-align: right;
+  margin-right: 2%;
+}
+.CadastrosSvRecentes {
+  color: white;
+  position: relative;
+  margin-top: 1%;
+
+}
+.CadastrosSvAnterior{
+  color: white;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+input.ButtonRel {
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+input.ButtonRel:hover {
+    background-color: #3368ac;
+    color: white;
+}
+
+
+
+footer {
+    position:absolute;
+    bottom:1%;
+    width:100%;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+table#FormularioRelatorio {
+  margin-right: auto;
+  margin-left: auto;
+}
